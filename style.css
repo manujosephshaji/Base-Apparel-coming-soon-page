@@ -153,5 +153,6 @@ picture img {
     .paragraph , .email-secion , .section-1{
         margin-left: 0px;
         margin-top: 0px;
+        text-align:center;
     }
 }
